@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/Sakku4590/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sakku4590/leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sakku4590/leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
