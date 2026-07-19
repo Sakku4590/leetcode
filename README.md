@@ -25,6 +25,7 @@
 | [0205-isomorphic-strings](https://github.com/Sakku4590/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakku4590/leetcode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
