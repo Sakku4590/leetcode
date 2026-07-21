@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Sakku4590/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sakku4590/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
 ## String
@@ -49,6 +50,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sakku4590/leetcode/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -106,4 +109,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
