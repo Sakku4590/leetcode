@@ -9,7 +9,7 @@ class Solution(object):
         freq = Counter(nums)
         ans = []
         for num, count in freq.items():
-            if count > n/3:
+            if count > n//3:
                 ans.append(num)
                 
         return ans
