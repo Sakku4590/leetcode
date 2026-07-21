@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakku4590/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sakku4590/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sakku4590/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sakku4590/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sakku4590/leetcode/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -95,4 +98,12 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
