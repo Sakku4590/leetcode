@@ -33,6 +33,7 @@
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Trie
 |  |
 | ------- |
@@ -110,4 +112,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
