@@ -137,4 +137,5 @@
 | [0511-game-play-analysis-i](https://github.com/Sakku4590/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Sakku4590/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sakku4590/leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Sakku4590/leetcode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
