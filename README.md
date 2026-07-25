@@ -12,6 +12,7 @@
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Sakku4590/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0205-isomorphic-strings](https://github.com/Sakku4590/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Sakku4590/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Sakku4590/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
