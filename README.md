@@ -64,6 +64,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
@@ -101,6 +102,7 @@
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakku4590/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
