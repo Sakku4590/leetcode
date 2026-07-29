@@ -16,6 +16,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakku4590/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakku4590/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -144,6 +147,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,4 +198,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakku4590/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
