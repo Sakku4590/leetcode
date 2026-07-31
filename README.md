@@ -19,6 +19,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sakku4590/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakku4590/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -125,6 +127,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sakku4590/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakku4590/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakku4590/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -132,6 +135,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -162,6 +166,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sakku4590/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
