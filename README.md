@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakku4590/leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -241,4 +244,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
