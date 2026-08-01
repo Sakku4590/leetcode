@@ -209,6 +209,7 @@
 | [0601-human-traffic-of-stadium](https://github.com/Sakku4590/leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/Sakku4590/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Sakku4590/leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Sakku4590/leetcode/tree/master/0619-biggest-single-number) |
 ## Queue
 |  |
 | ------- |
