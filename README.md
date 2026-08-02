@@ -223,6 +223,7 @@
 | [1179-reformat-department-table](https://github.com/Sakku4590/leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Sakku4590/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Sakku4590/leetcode/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Sakku4590/leetcode/tree/master/1280-students-and-examinations) |
 ## Queue
 |  |
 | ------- |
