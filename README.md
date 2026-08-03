@@ -227,6 +227,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Sakku4590/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sakku4590/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Sakku4590/leetcode/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/Sakku4590/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 ## Queue
 |  |
 | ------- |
