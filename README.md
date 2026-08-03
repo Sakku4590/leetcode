@@ -84,6 +84,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakku4590/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sakku4590/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sakku4590/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sakku4590/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sakku4590/leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
