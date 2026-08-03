@@ -244,6 +244,7 @@
 | [1407-top-travellers](https://github.com/Sakku4590/leetcode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Sakku4590/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Sakku4590/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sakku4590/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Queue
 |  |
 | ------- |
