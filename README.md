@@ -86,6 +86,7 @@
 | [0014-longest-common-prefix](https://github.com/Sakku4590/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakku4590/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakku4590/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
