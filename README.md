@@ -69,6 +69,7 @@
 | [0002-add-two-numbers](https://github.com/Sakku4590/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Sakku4590/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sakku4590/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Sakku4590/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -87,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakku4590/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Sakku4590/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
