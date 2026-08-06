@@ -91,6 +91,7 @@
 | [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sakku4590/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Sakku4590/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Sakku4590/leetcode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
