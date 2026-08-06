@@ -91,6 +91,7 @@
 | [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sakku4590/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sakku4590/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakku4590/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sakku4590/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
@@ -316,6 +317,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakku4590/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
