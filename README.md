@@ -282,6 +282,7 @@
 | [1795-rearrange-products-table](https://github.com/Sakku4590/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Sakku4590/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Sakku4590/leetcode/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/Sakku4590/leetcode/tree/master/1965-employees-with-missing-information) |
 ## Queue
 |  |
 | ------- |
