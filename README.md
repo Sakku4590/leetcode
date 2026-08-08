@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sakku4590/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sakku4590/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sakku4590/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
@@ -105,6 +107,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sakku4590/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sakku4590/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -148,6 +151,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sakku4590/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -162,6 +166,7 @@
 | [0217-contains-duplicate](https://github.com/Sakku4590/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sakku4590/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sakku4590/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -226,6 +231,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakku4590/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
