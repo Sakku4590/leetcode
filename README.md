@@ -103,6 +103,7 @@
 | [0169-majority-element](https://github.com/Sakku4590/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakku4590/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sakku4590/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Sakku4590/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Sakku4590/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
