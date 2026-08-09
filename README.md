@@ -18,6 +18,7 @@
 | [0299-bulls-and-cows](https://github.com/Sakku4590/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakku4590/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sakku4590/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakku4590/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sakku4590/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +114,7 @@
 | [0283-move-zeroes](https://github.com/Sakku4590/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakku4590/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
@@ -148,6 +150,7 @@
 | [0125-valid-palindrome](https://github.com/Sakku4590/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sakku4590/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakku4590/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakku4590/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
@@ -176,6 +179,7 @@
 | [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sakku4590/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakku4590/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sakku4590/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
@@ -241,6 +245,7 @@
 | [0035-search-insert-position](https://github.com/Sakku4590/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakku4590/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
