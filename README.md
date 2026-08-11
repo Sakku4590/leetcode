@@ -129,6 +129,7 @@
 | [0496-next-greater-element-i](https://github.com/Sakku4590/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Sakku4590/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sakku4590/leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Sakku4590/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sakku4590/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Sakku4590/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
@@ -234,6 +236,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sakku4590/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
