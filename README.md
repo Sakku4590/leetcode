@@ -97,6 +97,7 @@
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakku4590/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakku4590/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -146,6 +147,7 @@
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sakku4590/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakku4590/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sakku4590/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -230,6 +232,7 @@
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sakku4590/leetcode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakku4590/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -270,6 +273,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sakku4590/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sakku4590/leetcode/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakku4590/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -415,6 +419,7 @@
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -445,11 +450,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -458,6 +465,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
