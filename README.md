@@ -97,6 +97,7 @@
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakku4590/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -147,6 +148,7 @@
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sakku4590/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakku4590/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sakku4590/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -411,6 +413,7 @@
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakku4590/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -419,6 +422,7 @@
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
