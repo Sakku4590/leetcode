@@ -139,6 +139,7 @@
 | [0566-reshape-the-matrix](https://github.com/Sakku4590/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakku4590/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sakku4590/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Sakku4590/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Sakku4590/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Sakku4590/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Sakku4590/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Sakku4590/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sakku4590/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sakku4590/leetcode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
