@@ -337,6 +337,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/Sakku4590/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Sakku4590/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/Sakku4590/leetcode/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/Sakku4590/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Sakku4590/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Sakku4590/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Sakku4590/leetcode/tree/master/1280-students-and-examinations) |
