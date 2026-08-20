@@ -376,6 +376,7 @@
 | [3436-find-valid-emails](https://github.com/Sakku4590/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Sakku4590/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/Sakku4590/leetcode/tree/master/3570-find-books-with-no-available-copies) |
+| [3586-find-covid-recovery-patients](https://github.com/Sakku4590/leetcode/tree/master/3586-find-covid-recovery-patients) |
 ## Queue
 |  |
 | ------- |
