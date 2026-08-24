@@ -101,6 +101,7 @@
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sakku4590/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakku4590/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +159,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakku4590/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sakku4590/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakku4590/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sakku4590/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -441,6 +443,7 @@
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakku4590/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -450,6 +453,7 @@
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sakku4590/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
@@ -478,18 +482,21 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Sakku4590/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sakku4590/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sakku4590/leetcode/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
