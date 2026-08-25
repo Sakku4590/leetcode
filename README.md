@@ -37,6 +37,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakku4590/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sakku4590/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sakku4590/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sakku4590/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -169,6 +170,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sakku4590/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sakku4590/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakku4590/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sakku4590/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sakku4590/leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Sakku4590/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
