@@ -80,6 +80,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakku4590/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakku4590/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakku4590/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakku4590/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sakku4590/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Sakku4590/leetcode/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakku4590/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakku4590/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakku4590/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sakku4590/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakku4590/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakku4590/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
