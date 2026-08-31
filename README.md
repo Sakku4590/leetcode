@@ -430,6 +430,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakku4590/leetcode/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakku4590/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
