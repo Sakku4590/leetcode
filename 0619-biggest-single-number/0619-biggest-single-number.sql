@@ -2,8 +2,8 @@
 select ifnull(
     (select num
     from MyNumbers
-    group by num 
+    group by num
     having count(num) < 2
-    order by num Desc limit 0,1
+    order by num DESC limit 1
     ),null
-)as num
+) as num
