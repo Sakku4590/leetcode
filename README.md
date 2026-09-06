@@ -53,6 +53,7 @@
 | [0038-count-and-say](https://github.com/Sakku4590/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sakku4590/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Sakku4590/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sakku4590/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -464,6 +465,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sakku4590/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sakku4590/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakku4590/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
