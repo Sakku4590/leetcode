@@ -68,6 +68,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sakku4590/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sakku4590/leetcode/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [0940-distinct-subsequences-ii](https://github.com/Sakku4590/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sakku4590/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Sakku4590/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakku4590/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -470,6 +471,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakku4590/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sakku4590/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Sakku4590/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sakku4590/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sakku4590/leetcode/tree/master/1563-stone-game-v) |
