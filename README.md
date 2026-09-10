@@ -101,6 +101,7 @@
 | [0013-roman-to-integer](https://github.com/Sakku4590/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sakku4590/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakku4590/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sakku4590/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sakku4590/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sakku4590/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Sakku4590/leetcode/tree/master/0268-missing-number) |
@@ -473,6 +474,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sakku4590/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sakku4590/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sakku4590/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakku4590/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -564,4 +566,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakku4590/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sakku4590/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
