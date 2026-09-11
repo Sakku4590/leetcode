@@ -7,7 +7,6 @@ class Solution:
         while left < right:
             width = right - left
             current_height = min(height[left], height[right])
-
             area = width * current_height
             max_water = max(max_water, area)
 
@@ -15,5 +14,4 @@ class Solution:
                 left += 1
             else:
                 right -= 1
-
         return max_water
