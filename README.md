@@ -168,6 +168,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakku4590/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Sakku4590/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Sakku4590/leetcode/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/Sakku4590/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sakku4590/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sakku4590/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Sakku4590/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/Sakku4590/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Sakku4590/leetcode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
